@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/harsh-patel-portfolio/static/css/main.499f005f.css",
+    "main.js": "/harsh-patel-portfolio/static/js/main.86561034.js",
+    "index.html": "/harsh-patel-portfolio/index.html",
+    "main.499f005f.css.map": "/harsh-patel-portfolio/static/css/main.499f005f.css.map",
+    "main.86561034.js.map": "/harsh-patel-portfolio/static/js/main.86561034.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.499f005f.css",
+    "static/js/main.86561034.js"
+  ]
+}
